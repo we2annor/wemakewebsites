@@ -1,0 +1,42 @@
+$main-color: #444444;
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+}
+
+.background {
+  height: 50px;
+  width: 100%;
+  background-color: #E9F0F7;
+}
+
+.navbar {
+	height: 120px;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+
+.collapse.navbar-collapse {
+}
+
+.icons-container {
+  display: inline-block;
+  position: relative;
+  margin: 0 2px;
+  padding: 2px;
+}
+
+.search-icon {
+  display: inline-block;
+  float: left;
+}
+
+.region-div {
+	height: 27px;
+	width: 50px;
+	border: 1px solid #2D4966;
+}
